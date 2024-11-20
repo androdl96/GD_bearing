@@ -11,10 +11,11 @@
 # IPython
 profile_default/
 ipython_config.py
+__pycache__
 
 new_test.ipynb
 doc*
-figs/
+figs/win_params*
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
